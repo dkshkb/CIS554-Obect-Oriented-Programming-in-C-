@@ -1,5 +1,4 @@
 //HW5 by Yuhao Chen
-//SU Net ID: ychen436 SUID: 603743399
 
 //HW5 Due: April 23 (Friday) at 11:59PM
 #include <iostream>
