@@ -1,5 +1,5 @@
 //HW3 by Yuhao Chen
-//SU Net ID: ychen436 SUID:603743399
+
 //Due: 11:59PM, March 20 (Saturday)
 
 #include <iostream>
