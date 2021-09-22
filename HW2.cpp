@@ -1,5 +1,4 @@
 //HW2 by Yuhao Chen
-//SU Net ID: ychen436  SUID: 603743399
 
 //HW2 Due: March 11, Thursday, at 11:59pm
 //Implement three member functions of class Tree: 
