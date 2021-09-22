@@ -1,5 +1,4 @@
 //HW1 by Yuhao Chen
-//SU Net ID:ychen436 SUID:603743399
 //CIS554 HW1  Due: March 1 (Monday) at 11:59pm.
 //All operations have to be directly performed on the DoublyLinkedList.
 //You are not allowed to copy the node values to external structures, perform operations
