@@ -1,5 +1,5 @@
 //HW4 by Yuhao Chen
-//SU Net ID: ychen436 SUID: 603743399
+
 //Due : April 6, Tuesday
 
 
